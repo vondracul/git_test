@@ -1,0 +1,1 @@
+This is vondracul's first git project!
